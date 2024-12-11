@@ -140,7 +140,7 @@ var taskIncomplete=function(){
 
 
 var ajaxRequest=function(){
-    console.log("AJAX Request");
+    console.log("Ajax Request");
 }
 
 //The glue to hold it all together.
