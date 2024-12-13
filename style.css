@@ -16,6 +16,10 @@
   width: 100%;
 }
 
+.figure {
+  margin: 0;
+}
+
 .header .header-link {
   font-family: fantasy, cursive;
 }
@@ -30,6 +34,15 @@
   display: block;
   width: 500px;
   margin: 0 auto 0;
+}
+
+.task-section {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
 }
 
 .task {
